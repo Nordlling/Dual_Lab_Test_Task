@@ -1,0 +1,16 @@
+P { text-align: center }
+H2 { text-align: center }
+
+.center {
+    width: 500px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+   }
+
+.colortextmax {
+     color: red; /* Красный цвет выделения */
+  }
+
+.colortextmin {
+     color: green; /* Красный цвет выделения */
+  }
