@@ -2,15 +2,21 @@ P { text-align: center }
 H2 { text-align: center }
 
 .center {
-    width: 500px; /* Ширина элемента в пикселах */
-    padding: 10px; /* Поля вокруг текста */
-    margin: auto; /* Выравниваем по центру */
+    width: 500px;
+    padding: 10px;
+    margin: auto
    }
 
 .colortextmax {
-     color: red; /* Красный цвет выделения */
+     color: red;
+     font-weight: 600;
   }
 
 .colortextmin {
-     color: green; /* Красный цвет выделения */
+     color: green; 
+     font-weight: 600;
+  }
+
+.place {
+     float: right;
   }
