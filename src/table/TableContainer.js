@@ -5,6 +5,7 @@ import {setEurAC} from "../redux/eur-reducer"
 import {setRurAC} from "../redux/rur-reducer"
 import {setDatesAC} from "../redux/dates-reducer"
 
+// Функция для чтения состояний
 let mapStateToProps = (state) => {
   return {
     usd: state.usdPage.usd,
@@ -14,6 +15,7 @@ let mapStateToProps = (state) => {
   }
 }
 
+// Функция для передачи событий
 let mapDispatchToProps = (dispatch) => {
   return {
     setUsd: (usd) => {
@@ -34,4 +36,5 @@ let mapDispatchToProps = (dispatch) => {
   }
 }
 
+// Экспорт функции connect(), которая передаёт состояния и события классовой компоненте TableList, а также вызывает эту компоненту
 export default connect(mapStateToProps, mapDispatchToProps)(TableList);

@@ -5,7 +5,7 @@ import rurReducer from "./rur-reducer"
 import datesReducer from "./dates-reducer"
 
 
-
+// Редьюсер, который объединяет все отдельные редьюсеры
 let reducers = combineReducers({
   usdPage: usdReducer,
   eurPage: eurReducer,
@@ -13,6 +13,7 @@ let reducers = combineReducers({
   datesPage: datesReducer
 });
 
+// Хранилище, которое хранит все состояния
 let store = createStore(reducers);
 
 window.store = store
