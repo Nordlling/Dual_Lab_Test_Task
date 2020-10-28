@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Dual_Lab_Test_Task/static/css/main.28aec559.chunk.css",
+    "main.js": "/Dual_Lab_Test_Task/static/js/main.e331b8c6.chunk.js",
+    "main.js.map": "/Dual_Lab_Test_Task/static/js/main.e331b8c6.chunk.js.map",
+    "runtime-main.js": "/Dual_Lab_Test_Task/static/js/runtime-main.469786e9.js",
+    "runtime-main.js.map": "/Dual_Lab_Test_Task/static/js/runtime-main.469786e9.js.map",
+    "static/js/2.289600de.chunk.js": "/Dual_Lab_Test_Task/static/js/2.289600de.chunk.js",
+    "static/js/2.289600de.chunk.js.map": "/Dual_Lab_Test_Task/static/js/2.289600de.chunk.js.map",
+    "index.html": "/Dual_Lab_Test_Task/index.html",
+    "precache-manifest.2c8d13c4901b3d30909c06fa854bb013.js": "/Dual_Lab_Test_Task/precache-manifest.2c8d13c4901b3d30909c06fa854bb013.js",
+    "service-worker.js": "/Dual_Lab_Test_Task/service-worker.js",
+    "static/css/main.28aec559.chunk.css.map": "/Dual_Lab_Test_Task/static/css/main.28aec559.chunk.css.map",
+    "static/js/2.289600de.chunk.js.LICENSE.txt": "/Dual_Lab_Test_Task/static/js/2.289600de.chunk.js.LICENSE.txt",
+    "static/media/lato-font.css": "/Dual_Lab_Test_Task/static/media/Lato-Regular.3b9b9903.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.469786e9.js",
+    "static/js/2.289600de.chunk.js",
+    "static/css/main.28aec559.chunk.css",
+    "static/js/main.e331b8c6.chunk.js"
+  ]
+}
